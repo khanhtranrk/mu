@@ -6,8 +6,8 @@ MU is a workspace for the MU pipeline system. It brings together the Python exec
 
 | Directory | Responsibility | Documentation |
 | --- | --- | --- |
-| [mu-cli](mu-cli/) | Python CLI, pipeline execution, GPU-aware scheduling, actions, conditions, and master-flow worker integration. The executable is named `mu`. | [CLI README](mu-cli/README.md), [spec reference](mu-cli/docs/spec-format/README.md) |
-| [mu-masterflow](mu-masterflow/) | Tauri/React desktop UI, Convex backend, specs, requests, units, notifications, and worker HTTP endpoints. | [MasterFlow README](mu-masterflow/README.md), [agent guide](mu-masterflow/AGENT.md) |
+| [mu-cli](https://github.com/khanhtranrk/mu-cli) | Python CLI, pipeline execution, GPU-aware scheduling, actions, conditions, and master-flow worker integration. The executable is named `mu`. | [CLI README](https://github.com/khanhtranrk/mu-cli/blob/master/README.md), [spec reference](https://github.com/khanhtranrk/mu-cli/blob/master/docs/spec-format/README.md) |
+| [mu-masterflow](https://github.com/khanhtranrk/mu-masterflow) | Tauri/React desktop UI, Convex backend, specs, requests, units, notifications, and worker HTTP endpoints. | [MasterFlow README](https://github.com/khanhtranrk/mu-masterflow/blob/main/README.md), [agent guide](https://github.com/khanhtranrk/mu-masterflow/blob/main/AGENT.md) |
 
 ## Clone
 
