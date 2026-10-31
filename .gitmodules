@@ -1,0 +1,6 @@
+[submodule "mu-cli"]
+	path = mu-cli
+	url = https://github.com/khanhtranrk/mu-cli.git
+[submodule "mu-masterflow"]
+	path = mu-masterflow
+	url = https://github.com/khanhtranrk/mu-masterflow.git
